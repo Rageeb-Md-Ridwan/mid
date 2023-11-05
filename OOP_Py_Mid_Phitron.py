@@ -1,3 +1,5 @@
+# Name: Rageeb Md. Ridwan
+# Phitron mail: rage9237yo@gmail.com
 class Star_Cinema:
     _hall_list = []
 
